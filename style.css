@@ -19,7 +19,8 @@ body {
 .quote-wrapper {
     width: 450px;
     height: 370px;
-    margin-left: 40px;
+    margin:0 5px;
+    padding: 10px;
     opacity: 0.9;
 }
 .quote-wrapper .quote-heading {
