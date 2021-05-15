@@ -19,11 +19,7 @@ body {
 .quote-wrapper {
     width: 450px;
     height: 370px;
-<<<<<<< HEAD
     margin: o 5px;
-=======
-    margin:0 5px;
->>>>>>> ef30794be98046eed3d824542ee04903328c6cc1
     position: absolute;
     opacity: 0.9;
 }
